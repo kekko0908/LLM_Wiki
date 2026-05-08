@@ -1,0 +1,14 @@
+.aider*
+
+# Local editor / vault metadata
+.obsidian/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / tooling
+.DS_Store
+Thumbs.db
