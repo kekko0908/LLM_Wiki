@@ -1,7 +1,7 @@
 ---
 tags: [tracking, allenamento, progressione]
 data_creazione: 2026-05-09
-data_aggiornamento: 2026-05-09
+data_aggiornamento: 2026-05-11
 fonti: []
 ---
 # Progressione carichi
@@ -31,35 +31,35 @@ Vista sintetica dell'andamento dei carichi per esercizio. Serve a decidere quand
 
 | Esercizio | Stato |
 | :--- | :--- |
-| Push-up | da popolare |
-| Military press | da popolare |
-| Floor press manubri | da popolare |
-| Alzate laterali | da popolare |
-| Overhead extension | da popolare |
-| Triceps pushdown elastici | da popolare |
+| Push-up | 3x10 @ corpo libero, RIR 2-3 -> mantieni |
+| Military press | 3x10 @ 7.5 kg, RIR 1-2 -> mantieni |
+| Floor press manubri | 3x10 @ 7.5 kg, RIR 1-2 -> mantieni |
+| Alzate laterali | 3x10 @ 7.5 kg, RIR 1-2 -> mantieni |
+| Overhead extension | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Triceps pushdown elastici | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
 
 ### Pull
 
 | Esercizio | Stato |
 | :--- | :--- |
-| Rematore bilanciere | da popolare |
-| Lat pulldown elastici | da popolare |
-| Trazioni a terra proni | da popolare |
-| Superman a terra | da popolare |
-| Curl manubri | da popolare |
-| Curl a martello | da popolare |
-| Reverse curl manubri | da popolare |
+| Rematore bilanciere | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Lat pulldown elastici | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Trazioni a terra proni | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Superman a terra | 3x10 @ corpo libero, RIR 1-2 -> mantieni |
+| Curl manubri | 3x10 @ 7.5 kg, RIR 1-2 -> mantieni |
+| Curl a martello | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Reverse curl manubri | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
 
 ### Legs
 
 | Esercizio | Stato |
 | :--- | :--- |
-| Jump squat | da popolare |
-| Affondi con manubri | da popolare |
-| Stacchi romeni | da popolare |
-| Goblet squat | da popolare |
-| Bulgarian split squat | da popolare |
-| Wall sit con peso | da popolare |
+| Jump squat | 3x10 @ corpo libero, RIR 2-3 -> mantieni |
+| Affondi con manubri | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Stacchi romeni | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Goblet squat | 3x10 @ 7.5 kg, RIR 1-2 -> mantieni |
+| Bulgarian split squat | 3x10 @ 15 kg, RIR 1-2 -> mantieni |
+| Wall sit con peso | 3x60 sec @ 15 kg, RIR 1-2 -> mantieni |
 
 ## Articoli correlati
 

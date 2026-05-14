@@ -1,7 +1,7 @@
 ---
 tags: [tracking, misure, ricomposizione-corporea]
 data_creazione: 2026-05-09
-data_aggiornamento: 2026-05-09
+data_aggiornamento: 2026-05-10
 fonti: []
 ---
 # Misure corpo
@@ -17,15 +17,15 @@ Registro delle misure corporee usate per valutare la ricomposizione nel tempo. I
 
 ## Misure
 
-| Data | Peso | Vita | Fianchi | Petto | Braccio | Coscia | Note |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| YYYY-MM-DD |  |  |  |  |  |  |  |
+| Data | Peso | Vita | Fianchi | Petto | Braccio sx | Braccio dx | Coscia | Spalle |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-05-10 | 82.1 kg | 91 cm | 90 cm | 101 cm | 32 cm | 32 cm |  | 119 cm |
 
 ## Foto riferimento
 
 | Data | Percorso file/foto | Note |
 | :--- | :--- | :--- |
-| YYYY-MM-DD |  |  |
+| 2026-05-10 | [Front](foto-riferimento/2026-05/2026-05-10-front.jpeg), [Lato](foto-riferimento/2026-05/2026-05-10-lato.jpeg), [Retro](foto-riferimento/2026-05/2026-05-10-retro.jpeg) | Foto riferimento iniziali |
 
 ## Articoli correlati
 

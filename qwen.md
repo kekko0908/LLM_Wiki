@@ -115,6 +115,56 @@ Quando una risposta produce un'analisi, una comparazione o una sintesi originale
 - In `output/` se è un risultato puntuale.
 - Come nuovo articolo nella wiki tematica appropriata se ha valore di lungo periodo.
 
+### Promemoria tracking obbligatorio
+
+All'inizio di ogni consultazione in questo progetto, prima della risposta principale:
+1. Usa la data corrente della conversazione.
+2. Controlla solo i file di tracking gia esistenti: `wiki/alimentazione/diario-macro.md`, `wiki/tracking/diario/YYYY-MM.md`, `wiki/tracking/progressione-carichi.md`, `wiki/tracking/record-personali.md`, `wiki/tracking/misure-corpo.md`, `wiki/tracking/check-in-settimanali.md`.
+3. Mostra un reminder breve con i campi da popolare oggi, segnalando campi vuoti, `x` o `da popolare` se presenti.
+4. Il reminder deve coprire: macro giornaliere; allenamento del giorno se previsto; sintesi sessione; progressione carichi; eventuali record; misure corpo/foto quando aggiornate; passi, sonno, recupero fisico, recupero mentale e stress per il check-in settimanale.
+5. Non creare nuovi file per il reminder: usa e aggiorna solo i file esistenti sopra.
+6. Se l'utente fornisce dati completi in chat, aggiorna automaticamente i file corretti della wiki.
+7. Se mancano dati essenziali, chiedi solo i campi mancanti necessari.
+8. Dopo il reminder, rispondi normalmente alla domanda dell'utente.
+
+### Domanda settimanale consigliata: check-in corpo, allenamento e macro
+Usa questa domanda ogni settimana quando vuoi un'analisi completa di misure, foto, diario allenamenti, diario macro e check-in:
+
+```markdown
+Consultazione settimanale tracking.
+
+Analizza la settimana YYYY-MM-DD / YYYY-MM-DD usando la knowledge base.
+
+Leggi:
+- `wiki/indice.md`
+- `wiki/profilo/dati-personali-e-obiettivi.md`
+- `wiki/tracking/indice_wiki.md`
+- `wiki/tracking/check-in-settimanali.md`
+- `wiki/tracking/misure-corpo.md`
+- `wiki/tracking/diario/YYYY-MM.md`
+- `wiki/alimentazione/diario-macro.md`
+
+Se in `misure-corpo.md` ci sono foto riferimento collegate, apri e valuta anche le immagini disponibili.
+
+Regola fonti primarie:
+- Macro e calorie: calcola le medie dai dati giornalieri in `wiki/alimentazione/diario-macro.md`.
+- Misure e foto: usa `wiki/tracking/misure-corpo.md`.
+- Allenamenti: usa `wiki/tracking/diario/YYYY-MM.md`.
+- Check-in: usa `wiki/tracking/check-in-settimanali.md` solo per sintesi soggettive, recupero, fame, energia, passi, sonno e decisioni.
+- Se un dato e presente in piu file, privilegia la fonte primaria e segnala l'eventuale incoerenza.
+
+Obiettivo:
+1. Riassumi cosa e cambiato rispetto al check-in precedente.
+2. Valuta peso, misure, foto, allenamenti, macro, recupero fisico, recupero mentale, stress, sonno e aderenza.
+3. Distingui segnali affidabili da rumore settimanale.
+4. Dimmi se la ricomposizione sta andando nella direzione giusta.
+5. Proponi micro-correzioni per la prossima settimana su allenamento, calorie, macro e recupero.
+6. Cita gli articoli usati nel formato `[[wiki link]]`.
+
+Se mancano dati, dimmi esattamente quali campi devo compilare prima di poter trarre conclusioni corrette.
+```
+
+
 ## Workflow: Audit / Lint
 Comando: `audit` oppure `lint`
 Effettua un health-check completo della knowledge base. Cerca:

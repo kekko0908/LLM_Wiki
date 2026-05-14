@@ -19,27 +19,18 @@ Registro dei migliori risultati personali. Include record a corpo libero, pesi, 
 
 | Record | Valore | Data | Note |
 | :--- | :--- | :--- | :--- |
-| Push-up consecutivi | da popolare |  |  |
-| Sit-up consecutivi | da popolare |  |  |
-| Trazioni a terra consecutive | da popolare |  |  |
+| Push-up consecutivi | 30 reps | 2026-05-11 |  |
+| Wall Sit | 1 min | 2026-05-11 |  |
 
 ## Pesi
 
 | Esercizio | Record | Data | Note |
 | :--- | :--- | :--- | :--- |
-| Military press | da popolare |  |  |
-| Floor press manubri | da popolare |  |  |
-| Rematore bilanciere | da popolare |  |  |
-| Goblet squat | da popolare |  |  |
-| Stacchi romeni | da popolare |  |  |
 
 ## Core e resistenza
 
 | Record | Valore | Data | Note |
 | :--- | :--- | :--- | :--- |
-| Wall sit | da popolare |  |  |
-| Plank | da popolare |  |  |
-| Russian twist | da popolare |  |  |
 
 ## Articoli correlati
 

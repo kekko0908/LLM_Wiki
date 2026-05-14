@@ -11,7 +11,7 @@ Indice cronologico delle sessioni completate. I dettagli stanno nei file mensili
 ## Punti chiave
 
 - Registra sempre data, scheda, esercizi, peso, ripetizioni reali e RIR.
-- Usa note brevi su tecnica, energia, dolore, recupero o difficolta.
+- Usa note brevi nella colonna Note quando tecnica, dolore, recupero o difficolta cambiano la lettura della sessione.
 - Segna eventuali record nella riga dell'esercizio e poi riportali in [[record-personali]].
 - Mantieni il formato stabile per permettere analisi storiche.
 
@@ -28,13 +28,6 @@ Indice cronologico delle sessioni completate. I dettagli stanno nei file mensili
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Esercizio 1 | 3 | 10 / 9 / 8 | 12 kg | 1-2 |  |
 | Esercizio 2 | 3 | 12 / 12 / 10 | corpo libero | 1 |  |
-
-### Sintesi sessione
-
-- Energia:
-- Tecnica:
-- Recupero:
-- Prossima decisione:
 ```
 
 ## Articoli correlati

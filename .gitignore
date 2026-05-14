@@ -3,11 +3,20 @@
 # Local editor / vault metadata
 .obsidian/
 
+# Private progress photos
+wiki/tracking/foto-riferimento/
+
 # Python
 venv/
 .venv/
 __pycache__/
 *.pyc
+
+# Dashboard app
+dashboard/node_modules/
+dashboard/dist/
+dashboard/*.log
+dashboard/tsconfig.tsbuildinfo
 
 # OS / tooling
 .DS_Store
